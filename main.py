@@ -1523,3 +1523,7 @@ def _helper_ha50c(x):
 def _helper_dhnar(x):
     # step 408
     return x + 408
+
+
+class _MN2j:
+    version = 409
