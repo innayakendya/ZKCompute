@@ -1531,3 +1531,7 @@ class _MN2j:
 
 class _MPjm:
     version = 410
+
+
+class _MLqu:
+    version = 411
