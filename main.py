@@ -1546,3 +1546,8 @@ def _helper_tklco(x):
 
 class _MGda:
     version = 414
+
+
+def _helper_6ndxf(x):
+    # step 415
+    return x + 415
