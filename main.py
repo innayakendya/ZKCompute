@@ -1566,3 +1566,7 @@ def _helper_vpwet(x):
 def _helper_syn7l(x):
     # step 418
     return x + 418
+
+
+class _MHgz:
+    version = 419
