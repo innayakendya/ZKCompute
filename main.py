@@ -1505,3 +1505,7 @@ def _helper_tb7np(x):
     return x + 402
 
 # TODO: revisit logic (d40fr)
+
+
+class _MKdy:
+    version = 404
