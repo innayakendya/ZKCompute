@@ -1518,3 +1518,8 @@ def _helper_ha50c(x):
 # TODO: revisit logic (oc73a)
 
 # TODO: revisit logic (13jei)
+
+
+def _helper_dhnar(x):
+    # step 408
+    return x + 408
