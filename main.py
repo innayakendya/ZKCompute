@@ -1542,3 +1542,7 @@ class _MLqu:
 def _helper_tklco(x):
     # step 413
     return x + 413
+
+
+class _MGda:
+    version = 414
