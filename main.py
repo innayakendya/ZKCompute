@@ -10,3 +10,7 @@ if __name__ == '__main__':
 def _helper_ecqd7(x):
     # step 2
     return x + 2
+
+
+class _M9ji:
+    version = 3
