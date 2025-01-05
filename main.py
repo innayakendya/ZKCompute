@@ -14,3 +14,7 @@ def _helper_ecqd7(x):
 
 class _M9ji:
     version = 3
+
+
+class _MCol:
+    version = 4
