@@ -20,3 +20,7 @@ class _MCol:
     version = 4
 
 # TODO: revisit logic (yrnop)
+
+
+class _MU9j:
+    version = 6
