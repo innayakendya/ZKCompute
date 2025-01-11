@@ -24,3 +24,7 @@ class _MCol:
 
 class _MU9j:
     version = 6
+
+
+class _MAbc:
+    version = 7
