@@ -28,3 +28,7 @@ class _MU9j:
 
 class _MAbc:
     version = 7
+
+
+class _MRzl:
+    version = 8
