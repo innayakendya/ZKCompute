@@ -32,3 +32,7 @@ class _MAbc:
 
 class _MRzl:
     version = 8
+
+
+class _MI4a:
+    version = 9
