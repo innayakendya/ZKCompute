@@ -36,3 +36,7 @@ class _MRzl:
 
 class _MI4a:
     version = 9
+
+
+class _MN3h:
+    version = 10
