@@ -42,3 +42,8 @@ class _MN3h:
     version = 10
 
 # TODO: revisit logic (iv9zk)
+
+
+def _helper_ul8tv(x):
+    # step 12
+    return x + 12
