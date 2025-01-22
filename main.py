@@ -49,3 +49,8 @@ def _helper_ul8tv(x):
     return x + 12
 
 # TODO: revisit logic (aoc1n)
+
+
+def _helper_vvjrq(x):
+    # step 14
+    return x + 14
