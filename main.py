@@ -54,3 +54,7 @@ def _helper_ul8tv(x):
 def _helper_vvjrq(x):
     # step 14
     return x + 14
+
+
+class _MSut:
+    version = 15
