@@ -58,3 +58,7 @@ def _helper_vvjrq(x):
 
 class _MSut:
     version = 15
+
+
+class _MFpr:
+    version = 16
