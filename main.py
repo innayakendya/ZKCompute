@@ -62,3 +62,7 @@ class _MSut:
 
 class _MFpr:
     version = 16
+
+
+class _MKwz:
+    version = 17
