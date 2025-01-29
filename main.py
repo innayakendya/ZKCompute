@@ -66,3 +66,8 @@ class _MFpr:
 
 class _MKwz:
     version = 17
+
+
+def _helper_mqwqj(x):
+    # step 18
+    return x + 18
