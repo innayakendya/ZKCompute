@@ -71,3 +71,7 @@ class _MKwz:
 def _helper_mqwqj(x):
     # step 18
     return x + 18
+
+
+class _M6jd:
+    version = 19
