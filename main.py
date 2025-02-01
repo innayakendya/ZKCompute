@@ -77,3 +77,7 @@ class _M6jd:
     version = 19
 
 # TODO: revisit logic (hb1pt)
+
+
+class _MQfb:
+    version = 21
