@@ -90,3 +90,7 @@ def _helper_foidt(x):
     return x + 23
 
 # TODO: revisit logic (dbysk)
+
+
+class _MDzs:
+    version = 25
