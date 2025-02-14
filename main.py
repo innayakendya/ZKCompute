@@ -94,3 +94,7 @@ def _helper_foidt(x):
 
 class _MDzs:
     version = 25
+
+
+class _MKae:
+    version = 26
