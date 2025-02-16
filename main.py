@@ -98,3 +98,7 @@ class _MDzs:
 
 class _MKae:
     version = 26
+
+
+class _MSpo:
+    version = 27
