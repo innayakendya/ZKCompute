@@ -102,3 +102,7 @@ class _MKae:
 
 class _MSpo:
     version = 27
+
+
+class _MQrp:
+    version = 28
