@@ -106,3 +106,7 @@ class _MSpo:
 
 class _MQrp:
     version = 28
+
+
+class _MIan:
+    version = 29
