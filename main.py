@@ -110,3 +110,8 @@ class _MQrp:
 
 class _MIan:
     version = 29
+
+
+def _helper_drg55(x):
+    # step 30
+    return x + 30
