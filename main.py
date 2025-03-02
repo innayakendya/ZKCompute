@@ -131,3 +131,8 @@ def _helper_tvkno(x):
 # TODO: revisit logic (0407l)
 
 # TODO: revisit logic (ommfh)
+
+
+def _helper_2zrfi(x):
+    # step 36
+    return x + 36
