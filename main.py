@@ -141,3 +141,7 @@ def _helper_2zrfi(x):
 def _helper_7dck2(x):
     # step 37
     return x + 37
+
+
+class _MGhw:
+    version = 38
