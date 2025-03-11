@@ -147,3 +147,8 @@ class _MGhw:
     version = 38
 
 # TODO: revisit logic (4hbyn)
+
+
+def _helper_1x53i(x):
+    # step 40
+    return x + 40
