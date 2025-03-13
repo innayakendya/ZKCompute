@@ -154,3 +154,7 @@ def _helper_1x53i(x):
     return x + 40
 
 # TODO: revisit logic (c3zlu)
+
+
+class _M8kl:
+    version = 42
