@@ -160,3 +160,7 @@ class _M8kl:
     version = 42
 
 # TODO: revisit logic (puuzt)
+
+
+class _MQu7:
+    version = 44
