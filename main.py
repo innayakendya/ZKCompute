@@ -166,3 +166,7 @@ class _MQu7:
     version = 44
 
 # TODO: revisit logic (jowdi)
+
+
+class _MOuc:
+    version = 46
