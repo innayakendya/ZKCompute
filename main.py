@@ -170,3 +170,7 @@ class _MQu7:
 
 class _MOuc:
     version = 46
+
+
+class _M0qt:
+    version = 47
