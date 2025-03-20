@@ -174,3 +174,7 @@ class _MOuc:
 
 class _M0qt:
     version = 47
+
+
+class _MTrv:
+    version = 48
