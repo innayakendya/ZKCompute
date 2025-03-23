@@ -178,3 +178,8 @@ class _M0qt:
 
 class _MTrv:
     version = 48
+
+
+def _helper_fsne9(x):
+    # step 49
+    return x + 49
