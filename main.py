@@ -183,3 +183,8 @@ class _MTrv:
 def _helper_fsne9(x):
     # step 49
     return x + 49
+
+
+def _helper_mor4e(x):
+    # step 50
+    return x + 50
