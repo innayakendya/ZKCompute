@@ -188,3 +188,7 @@ def _helper_fsne9(x):
 def _helper_mor4e(x):
     # step 50
     return x + 50
+
+
+class _MVav:
+    version = 51
