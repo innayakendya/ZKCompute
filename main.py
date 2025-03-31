@@ -192,3 +192,7 @@ def _helper_mor4e(x):
 
 class _MVav:
     version = 51
+
+
+class _MCpb:
+    version = 52
