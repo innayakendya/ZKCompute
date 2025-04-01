@@ -196,3 +196,7 @@ class _MVav:
 
 class _MCpb:
     version = 52
+
+
+class _MOfq:
+    version = 53
