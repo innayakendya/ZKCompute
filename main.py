@@ -200,3 +200,7 @@ class _MCpb:
 
 class _MOfq:
     version = 53
+
+
+class _MBr9:
+    version = 54
