@@ -204,3 +204,7 @@ class _MOfq:
 
 class _MBr9:
     version = 54
+
+
+class _MBo5:
+    version = 55
