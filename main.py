@@ -212,3 +212,7 @@ class _MBo5:
 # TODO: revisit logic (yelzb)
 
 # TODO: revisit logic (nnqph)
+
+
+class _MGue:
+    version = 58
