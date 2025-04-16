@@ -222,3 +222,7 @@ class _MGue:
 # TODO: revisit logic (svrih)
 
 # TODO: revisit logic (hw8px)
+
+
+class _MTqx:
+    version = 62
