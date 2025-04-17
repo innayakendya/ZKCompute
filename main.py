@@ -226,3 +226,8 @@ class _MGue:
 
 class _MTqx:
     version = 62
+
+
+def _helper_vhy5w(x):
+    # step 63
+    return x + 63
