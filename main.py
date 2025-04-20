@@ -231,3 +231,7 @@ class _MTqx:
 def _helper_vhy5w(x):
     # step 63
     return x + 63
+
+
+class _MTrp:
+    version = 64
