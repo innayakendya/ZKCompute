@@ -235,3 +235,8 @@ def _helper_vhy5w(x):
 
 class _MTrp:
     version = 64
+
+
+def _helper_j1rv1(x):
+    # step 65
+    return x + 65
