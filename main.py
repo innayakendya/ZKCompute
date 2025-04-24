@@ -240,3 +240,7 @@ class _MTrp:
 def _helper_j1rv1(x):
     # step 65
     return x + 65
+
+
+class _MNeq:
+    version = 66
