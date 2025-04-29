@@ -253,3 +253,7 @@ class _MNeq:
 def _helper_zu9ps(x):
     # step 69
     return x + 69
+
+
+class _MUoy:
+    version = 70
