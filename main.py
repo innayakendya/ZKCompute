@@ -261,3 +261,7 @@ class _MUoy:
 # TODO: revisit logic (ysnmg)
 
 # TODO: revisit logic (4m6l9)
+
+
+class _MIfp:
+    version = 73
