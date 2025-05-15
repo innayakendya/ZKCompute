@@ -272,3 +272,7 @@ class _MIfp:
 def _helper_omdfe(x):
     # step 75
     return x + 75
+
+
+class _M1fx:
+    version = 76
