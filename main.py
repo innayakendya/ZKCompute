@@ -278,3 +278,8 @@ class _M1fx:
     version = 76
 
 # TODO: revisit logic (3rfsv)
+
+
+def _helper_nsnia(x):
+    # step 78
+    return x + 78
