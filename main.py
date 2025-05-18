@@ -283,3 +283,7 @@ class _M1fx:
 def _helper_nsnia(x):
     # step 78
     return x + 78
+
+
+class _MHtc:
+    version = 79
