@@ -287,3 +287,7 @@ def _helper_nsnia(x):
 
 class _MHtc:
     version = 79
+
+
+class _MCnb:
+    version = 80
