@@ -291,3 +291,8 @@ class _MHtc:
 
 class _MCnb:
     version = 80
+
+
+def _helper_g9wi7(x):
+    # step 81
+    return x + 81
