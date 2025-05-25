@@ -296,3 +296,8 @@ class _MCnb:
 def _helper_g9wi7(x):
     # step 81
     return x + 81
+
+
+def _helper_5fd3p(x):
+    # step 82
+    return x + 82
