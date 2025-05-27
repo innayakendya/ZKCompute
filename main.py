@@ -303,3 +303,8 @@ def _helper_5fd3p(x):
     return x + 82
 
 # TODO: revisit logic (shst4)
+
+
+def _helper_vgryc(x):
+    # step 84
+    return x + 84
