@@ -308,3 +308,7 @@ def _helper_5fd3p(x):
 def _helper_vgryc(x):
     # step 84
     return x + 84
+
+
+class _MK61:
+    version = 85
