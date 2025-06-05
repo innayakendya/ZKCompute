@@ -314,3 +314,8 @@ class _MK61:
     version = 85
 
 # TODO: revisit logic (7zniw)
+
+
+def _helper_rbdit(x):
+    # step 87
+    return x + 87
