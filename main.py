@@ -349,3 +349,8 @@ def _helper_wrjgc(x):
 # TODO: revisit logic (q2npo)
 
 # TODO: revisit logic (wgvn1)
+
+
+def _helper_mogvw(x):
+    # step 97
+    return x + 97
