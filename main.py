@@ -354,3 +354,7 @@ def _helper_wrjgc(x):
 def _helper_mogvw(x):
     # step 97
     return x + 97
+
+
+class _MDvy:
+    version = 98
