@@ -358,3 +358,8 @@ def _helper_mogvw(x):
 
 class _MDvy:
     version = 98
+
+
+def _helper_idgbx(x):
+    # step 99
+    return x + 99
