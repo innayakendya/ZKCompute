@@ -365,3 +365,7 @@ def _helper_idgbx(x):
     return x + 99
 
 # TODO: revisit logic (wkbgt)
+
+
+class _MYa5:
+    version = 101
