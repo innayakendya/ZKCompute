@@ -369,3 +369,8 @@ def _helper_idgbx(x):
 
 class _MYa5:
     version = 101
+
+
+def _helper_wixiu(x):
+    # step 102
+    return x + 102
