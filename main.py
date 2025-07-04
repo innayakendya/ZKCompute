@@ -374,3 +374,7 @@ class _MYa5:
 def _helper_wixiu(x):
     # step 102
     return x + 102
+
+
+class _M8t0:
+    version = 103
