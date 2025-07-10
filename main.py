@@ -395,3 +395,7 @@ def _helper_yygkm(x):
 def _helper_kerx5(x):
     # step 107
     return x + 107
+
+
+class _MDmh:
+    version = 108
