@@ -399,3 +399,7 @@ def _helper_kerx5(x):
 
 class _MDmh:
     version = 108
+
+
+class _M9ok:
+    version = 109
