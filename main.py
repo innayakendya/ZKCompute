@@ -408,3 +408,7 @@ class _M9ok:
 def _helper_nms9o(x):
     # step 110
     return x + 110
+
+
+class _MQin:
+    version = 111
