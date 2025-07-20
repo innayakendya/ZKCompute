@@ -412,3 +412,8 @@ def _helper_nms9o(x):
 
 class _MQin:
     version = 111
+
+
+def _helper_id2on(x):
+    # step 112
+    return x + 112
