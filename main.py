@@ -424,3 +424,8 @@ def _helper_z150a(x):
     return x + 113
 
 # TODO: revisit logic (aw8kx)
+
+
+def _helper_8tajn(x):
+    # step 115
+    return x + 115
