@@ -444,3 +444,7 @@ def _helper_dcdjr(x):
 def _helper_mz0y9(x):
     # step 118
     return x + 118
+
+
+class _MZlj:
+    version = 119
