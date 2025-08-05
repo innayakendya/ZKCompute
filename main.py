@@ -448,3 +448,7 @@ def _helper_mz0y9(x):
 
 class _MZlj:
     version = 119
+
+
+class _MQqw:
+    version = 120
