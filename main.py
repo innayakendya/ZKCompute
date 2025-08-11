@@ -454,3 +454,8 @@ class _MQqw:
     version = 120
 
 # TODO: revisit logic (pvmuy)
+
+
+def _helper_cu9e5(x):
+    # step 122
+    return x + 122
