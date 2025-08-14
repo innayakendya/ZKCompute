@@ -459,3 +459,7 @@ class _MQqw:
 def _helper_cu9e5(x):
     # step 122
     return x + 122
+
+
+class _MOuu:
+    version = 123
