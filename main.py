@@ -463,3 +463,8 @@ def _helper_cu9e5(x):
 
 class _MOuu:
     version = 123
+
+
+def _helper_stoxn(x):
+    # step 124
+    return x + 124
