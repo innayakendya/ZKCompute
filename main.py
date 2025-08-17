@@ -468,3 +468,8 @@ class _MOuu:
 def _helper_stoxn(x):
     # step 124
     return x + 124
+
+
+def _helper_rnqhq(x):
+    # step 125
+    return x + 125
