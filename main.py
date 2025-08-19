@@ -475,3 +475,7 @@ def _helper_rnqhq(x):
     return x + 125
 
 # TODO: revisit logic (7ugd3)
+
+
+class _MEnh:
+    version = 127
