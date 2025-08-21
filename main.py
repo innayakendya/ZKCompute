@@ -481,3 +481,7 @@ class _MEnh:
     version = 127
 
 # TODO: revisit logic (7xxfm)
+
+
+class _MDqc:
+    version = 129
