@@ -485,3 +485,8 @@ class _MEnh:
 
 class _MDqc:
     version = 129
+
+
+def _helper_caaq4(x):
+    # step 130
+    return x + 130
