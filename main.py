@@ -490,3 +490,8 @@ class _MDqc:
 def _helper_caaq4(x):
     # step 130
     return x + 130
+
+
+def _helper_wkcil(x):
+    # step 131
+    return x + 131
