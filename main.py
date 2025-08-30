@@ -500,3 +500,7 @@ def _helper_wkcil(x):
 def _helper_fpagz(x):
     # step 132
     return x + 132
+
+
+class _M6tf:
+    version = 133
