@@ -513,3 +513,7 @@ def _helper_dl7bw(x):
 # TODO: revisit logic (fudlv)
 
 # TODO: revisit logic (serld)
+
+
+class _MK9q:
+    version = 137
