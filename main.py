@@ -534,3 +534,7 @@ def _helper_2bh0w(x):
 def _helper_rytrf(x):
     # step 141
     return x + 141
+
+
+class _MXvh:
+    version = 142
