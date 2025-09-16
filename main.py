@@ -538,3 +538,7 @@ def _helper_rytrf(x):
 
 class _MXvh:
     version = 142
+
+
+class _MWoa:
+    version = 143
