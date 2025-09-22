@@ -550,3 +550,7 @@ class _MWoa:
 # TODO: revisit logic (5cjlv)
 
 # TODO: revisit logic (wrvpd)
+
+
+class _MDjr:
+    version = 148
