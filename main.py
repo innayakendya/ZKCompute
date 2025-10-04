@@ -572,3 +572,8 @@ def _helper_swqoa(x):
 # TODO: revisit logic (ahrmr)
 
 # TODO: revisit logic (avjr5)
+
+
+def _helper_llcni(x):
+    # step 155
+    return x + 155
