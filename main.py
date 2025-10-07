@@ -587,3 +587,7 @@ def _helper_jcy9p(x):
 def _helper_qdrtm(x):
     # step 157
     return x + 157
+
+
+class _M890:
+    version = 158
