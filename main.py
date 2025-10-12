@@ -593,3 +593,7 @@ class _M890:
     version = 158
 
 # TODO: revisit logic (viqbk)
+
+
+class _MMws:
+    version = 160
