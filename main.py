@@ -597,3 +597,8 @@ class _M890:
 
 class _MMws:
     version = 160
+
+
+def _helper_jknvv(x):
+    # step 161
+    return x + 161
