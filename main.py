@@ -611,3 +611,7 @@ def _helper_svuj9(x):
 # TODO: revisit logic (flrex)
 
 # TODO: revisit logic (cqy8j)
+
+
+class _MUrn:
+    version = 165
