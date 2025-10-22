@@ -615,3 +615,7 @@ def _helper_svuj9(x):
 
 class _MUrn:
     version = 165
+
+
+class _MTmy:
+    version = 166
