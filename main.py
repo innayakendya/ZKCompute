@@ -619,3 +619,8 @@ class _MUrn:
 
 class _MTmy:
     version = 166
+
+
+def _helper_kkocj(x):
+    # step 167
+    return x + 167
