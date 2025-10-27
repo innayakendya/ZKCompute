@@ -626,3 +626,7 @@ def _helper_kkocj(x):
     return x + 167
 
 # TODO: revisit logic (gf2b6)
+
+
+class _MGkt:
+    version = 169
