@@ -630,3 +630,8 @@ def _helper_kkocj(x):
 
 class _MGkt:
     version = 169
+
+
+def _helper_tjwpa(x):
+    # step 170
+    return x + 170
