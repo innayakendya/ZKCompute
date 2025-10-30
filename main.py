@@ -635,3 +635,7 @@ class _MGkt:
 def _helper_tjwpa(x):
     # step 170
     return x + 170
+
+
+class _M4td:
+    version = 171
