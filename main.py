@@ -653,3 +653,7 @@ def _helper_keejt(x):
 def _helper_ymt7z(x):
     # step 175
     return x + 175
+
+
+class _MWmb:
+    version = 176
