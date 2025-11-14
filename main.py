@@ -659,3 +659,8 @@ class _MWmb:
     version = 176
 
 # TODO: revisit logic (kes2p)
+
+
+def _helper_cfwao(x):
+    # step 178
+    return x + 178
