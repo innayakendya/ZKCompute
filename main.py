@@ -664,3 +664,7 @@ class _MWmb:
 def _helper_cfwao(x):
     # step 178
     return x + 178
+
+
+class _MNdu:
+    version = 179
