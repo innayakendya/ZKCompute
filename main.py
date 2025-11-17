@@ -670,3 +670,7 @@ class _MNdu:
     version = 179
 
 # TODO: revisit logic (z4ipn)
+
+
+class _MN5v:
+    version = 181
