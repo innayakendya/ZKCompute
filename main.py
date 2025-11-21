@@ -676,3 +676,7 @@ class _MN5v:
     version = 181
 
 # TODO: revisit logic (eiqzf)
+
+
+class _MFrk:
+    version = 183
