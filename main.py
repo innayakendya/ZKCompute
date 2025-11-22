@@ -680,3 +680,8 @@ class _MN5v:
 
 class _MFrk:
     version = 183
+
+
+def _helper_h1osb(x):
+    # step 184
+    return x + 184
