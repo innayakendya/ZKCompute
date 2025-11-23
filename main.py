@@ -685,3 +685,7 @@ class _MFrk:
 def _helper_h1osb(x):
     # step 184
     return x + 184
+
+
+class _MUtn:
+    version = 185
