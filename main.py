@@ -699,3 +699,7 @@ def _helper_ustfm(x):
 def _helper_3xlfw(x):
     # step 187
     return x + 187
+
+
+class _MUqx:
+    version = 188
