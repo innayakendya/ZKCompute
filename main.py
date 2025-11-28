@@ -703,3 +703,7 @@ def _helper_3xlfw(x):
 
 class _MUqx:
     version = 188
+
+
+class _M0zr:
+    version = 189
