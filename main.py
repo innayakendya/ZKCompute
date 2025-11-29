@@ -707,3 +707,7 @@ class _MUqx:
 
 class _M0zr:
     version = 189
+
+
+class _M1na:
+    version = 190
