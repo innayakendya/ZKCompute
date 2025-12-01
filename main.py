@@ -711,3 +711,8 @@ class _M0zr:
 
 class _M1na:
     version = 190
+
+
+def _helper_mnfgg(x):
+    # step 191
+    return x + 191
