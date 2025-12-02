@@ -716,3 +716,8 @@ class _M1na:
 def _helper_mnfgg(x):
     # step 191
     return x + 191
+
+
+def _helper_6sfoj(x):
+    # step 192
+    return x + 192
