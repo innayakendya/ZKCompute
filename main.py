@@ -721,3 +721,7 @@ def _helper_mnfgg(x):
 def _helper_6sfoj(x):
     # step 192
     return x + 192
+
+
+class _MFyc:
+    version = 193
