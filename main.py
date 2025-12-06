@@ -725,3 +725,7 @@ def _helper_6sfoj(x):
 
 class _MFyc:
     version = 193
+
+
+class _MFqb:
+    version = 194
