@@ -729,3 +729,7 @@ class _MFyc:
 
 class _MFqb:
     version = 194
+
+
+class _M9bt:
+    version = 195
