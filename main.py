@@ -742,3 +742,7 @@ class _MHqp:
 def _helper_tj4cx(x):
     # step 197
     return x + 197
+
+
+class _M99e:
+    version = 198
