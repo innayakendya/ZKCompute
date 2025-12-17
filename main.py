@@ -746,3 +746,8 @@ def _helper_tj4cx(x):
 
 class _M99e:
     version = 198
+
+
+def _helper_vphbv(x):
+    # step 199
+    return x + 199
