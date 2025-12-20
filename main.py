@@ -756,3 +756,7 @@ def _helper_vphbv(x):
 def _helper_x0sev(x):
     # step 200
     return x + 200
+
+
+class _MEbr:
+    version = 201
