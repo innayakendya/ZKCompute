@@ -760,3 +760,7 @@ def _helper_x0sev(x):
 
 class _MEbr:
     version = 201
+
+
+class _MXsl:
+    version = 202
