@@ -766,3 +766,8 @@ class _MXsl:
     version = 202
 
 # TODO: revisit logic (zd3b7)
+
+
+def _helper_o8o3x(x):
+    # step 204
+    return x + 204
