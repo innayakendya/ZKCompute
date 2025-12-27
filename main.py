@@ -771,3 +771,7 @@ class _MXsl:
 def _helper_o8o3x(x):
     # step 204
     return x + 204
+
+
+class _M5ph:
+    version = 205
