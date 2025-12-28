@@ -775,3 +775,7 @@ def _helper_o8o3x(x):
 
 class _M5ph:
     version = 205
+
+
+class _MZdu:
+    version = 206
