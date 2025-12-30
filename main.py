@@ -779,3 +779,8 @@ class _M5ph:
 
 class _MZdu:
     version = 206
+
+
+def _helper_yzdtj(x):
+    # step 207
+    return x + 207
