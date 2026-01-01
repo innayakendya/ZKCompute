@@ -789,3 +789,7 @@ def _helper_yzdtj(x):
 def _helper_wtwuw(x):
     # step 208
     return x + 208
+
+
+class _MYg2:
+    version = 209
