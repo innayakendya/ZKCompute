@@ -812,3 +812,7 @@ def _helper_eghme(x):
 def _helper_4aujd(x):
     # step 214
     return x + 214
+
+
+class _MGrn:
+    version = 215
