@@ -825,3 +825,8 @@ def _helper_ifeeo(x):
     return x + 217
 
 # TODO: revisit logic (8xzhr)
+
+
+def _helper_4xqxw(x):
+    # step 219
+    return x + 219
