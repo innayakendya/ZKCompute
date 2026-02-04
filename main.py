@@ -855,3 +855,7 @@ def _helper_5ih4e(x):
 def _helper_kq0ql(x):
     # step 225
     return x + 225
+
+
+class _MEzb:
+    version = 226
