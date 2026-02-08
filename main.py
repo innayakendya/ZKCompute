@@ -864,3 +864,7 @@ class _MEzb:
 def _helper_gdjnu(x):
     # step 227
     return x + 227
+
+
+class _MTzn:
+    version = 228
