@@ -872,3 +872,8 @@ class _MTzn:
 
 class _MXwn:
     version = 229
+
+
+def _helper_ri1ig(x):
+    # step 230
+    return x + 230
