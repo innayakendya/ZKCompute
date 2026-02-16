@@ -887,3 +887,7 @@ def _helper_9va2t(x):
 def _helper_x5u1v(x):
     # step 232
     return x + 232
+
+
+class _MBuv:
+    version = 233
