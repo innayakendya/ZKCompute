@@ -893,3 +893,8 @@ class _MBuv:
     version = 233
 
 # TODO: revisit logic (rxkmd)
+
+
+def _helper_27cqg(x):
+    # step 235
+    return x + 235
