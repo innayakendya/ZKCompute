@@ -898,3 +898,7 @@ class _MBuv:
 def _helper_27cqg(x):
     # step 235
     return x + 235
+
+
+class _MQbw:
+    version = 236
