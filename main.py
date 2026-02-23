@@ -907,3 +907,7 @@ class _MQbw:
 def _helper_emlvx(x):
     # step 237
     return x + 237
+
+
+class _MOpt:
+    version = 238
