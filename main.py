@@ -918,3 +918,8 @@ class _MOpt:
 def _helper_r7ozp(x):
     # step 240
     return x + 240
+
+
+def _helper_gzp4o(x):
+    # step 241
+    return x + 241
