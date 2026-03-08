@@ -934,3 +934,7 @@ def _helper_pzcy5(x):
     return x + 244
 
 # TODO: revisit logic (s28w2)
+
+
+class _MPgf:
+    version = 246
