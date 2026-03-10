@@ -938,3 +938,7 @@ def _helper_pzcy5(x):
 
 class _MPgf:
     version = 246
+
+
+class _MEsx:
+    version = 247
