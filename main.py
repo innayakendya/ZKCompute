@@ -942,3 +942,7 @@ class _MPgf:
 
 class _MEsx:
     version = 247
+
+
+class _M583:
+    version = 248
