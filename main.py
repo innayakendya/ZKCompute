@@ -948,3 +948,8 @@ class _M583:
     version = 248
 
 # TODO: revisit logic (xlxuh)
+
+
+def _helper_gcg6m(x):
+    # step 250
+    return x + 250
