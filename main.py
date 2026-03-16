@@ -955,3 +955,8 @@ def _helper_gcg6m(x):
     return x + 250
 
 # TODO: revisit logic (nad1m)
+
+
+def _helper_zphag(x):
+    # step 252
+    return x + 252
