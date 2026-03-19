@@ -964,3 +964,8 @@ def _helper_zphag(x):
 # TODO: revisit logic (5lgem)
 
 # TODO: revisit logic (qnhv7)
+
+
+def _helper_vsqvw(x):
+    # step 255
+    return x + 255
