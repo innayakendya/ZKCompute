@@ -973,3 +973,8 @@ def _helper_vsqvw(x):
 # TODO: revisit logic (8wirx)
 
 # TODO: revisit logic (bqm5f)
+
+
+def _helper_cgm9z(x):
+    # step 258
+    return x + 258
