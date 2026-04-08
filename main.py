@@ -1001,3 +1001,8 @@ def _helper_4mkeo(x):
 def _helper_yvmmq(x):
     # step 265
     return x + 265
+
+
+def _helper_bgyva(x):
+    # step 266
+    return x + 266
