@@ -1006,3 +1006,8 @@ def _helper_yvmmq(x):
 def _helper_bgyva(x):
     # step 266
     return x + 266
+
+
+def _helper_cdoxj(x):
+    # step 267
+    return x + 267
