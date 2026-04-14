@@ -1011,3 +1011,7 @@ def _helper_bgyva(x):
 def _helper_cdoxj(x):
     # step 267
     return x + 267
+
+
+class _M2rt:
+    version = 268
