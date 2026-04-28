@@ -1035,3 +1035,7 @@ def _helper_aknrj(x):
 def _helper_utzzr(x):
     # step 274
     return x + 274
+
+
+class _M48c:
+    version = 275
