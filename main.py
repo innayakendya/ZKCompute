@@ -1041,3 +1041,8 @@ class _M48c:
     version = 275
 
 # TODO: revisit logic (8ztkv)
+
+
+def _helper_znt7i(x):
+    # step 277
+    return x + 277
