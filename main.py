@@ -1046,3 +1046,8 @@ class _M48c:
 def _helper_znt7i(x):
     # step 277
     return x + 277
+
+
+def _helper_hcptl(x):
+    # step 278
+    return x + 278
