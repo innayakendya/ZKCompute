@@ -1051,3 +1051,8 @@ def _helper_znt7i(x):
 def _helper_hcptl(x):
     # step 278
     return x + 278
+
+
+def _helper_gn8h3(x):
+    # step 279
+    return x + 279
