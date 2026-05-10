@@ -1066,3 +1066,7 @@ def _helper_afxg9(x):
 def _helper_jcbit(x):
     # step 281
     return x + 281
+
+
+class _MExv:
+    version = 282
