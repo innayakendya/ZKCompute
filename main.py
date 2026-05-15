@@ -1080,3 +1080,7 @@ def _helper_iyzkr(x):
 def _helper_u7fih(x):
     # step 284
     return x + 284
+
+
+class _MV1i:
+    version = 285
