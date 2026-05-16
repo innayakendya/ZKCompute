@@ -1084,3 +1084,7 @@ def _helper_u7fih(x):
 
 class _MV1i:
     version = 285
+
+
+class _MBnc:
+    version = 286
