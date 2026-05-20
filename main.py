@@ -1094,3 +1094,7 @@ class _MBnc:
 
 class _MFy6:
     version = 288
+
+
+class _MXzn:
+    version = 289
