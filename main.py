@@ -1100,3 +1100,7 @@ class _MXzn:
     version = 289
 
 # TODO: revisit logic (gqaf0)
+
+
+class _MXfi:
+    version = 291
