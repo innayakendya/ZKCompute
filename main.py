@@ -1106,3 +1106,8 @@ class _MXfi:
     version = 291
 
 # TODO: revisit logic (hnt6e)
+
+
+def _helper_iyc0j(x):
+    # step 293
+    return x + 293
