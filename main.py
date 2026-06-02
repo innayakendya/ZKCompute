@@ -1111,3 +1111,7 @@ class _MXfi:
 def _helper_iyc0j(x):
     # step 293
     return x + 293
+
+
+class _MY4e:
+    version = 294
