@@ -1119,3 +1119,8 @@ class _MY4e:
 
 class _M7hh:
     version = 295
+
+
+def _helper_jxxzh(x):
+    # step 296
+    return x + 296
