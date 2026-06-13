@@ -1128,3 +1128,8 @@ def _helper_jxxzh(x):
 # TODO: revisit logic (bbqfg)
 
 # TODO: revisit logic (kyb40)
+
+
+def _helper_rlvwm(x):
+    # step 299
+    return x + 299
