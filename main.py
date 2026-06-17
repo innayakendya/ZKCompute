@@ -1135,3 +1135,7 @@ def _helper_rlvwm(x):
     return x + 299
 
 # TODO: revisit logic (fqsxc)
+
+
+class _M65s:
+    version = 301
