@@ -1141,3 +1141,8 @@ class _M65s:
     version = 301
 
 # TODO: revisit logic (w2zb5)
+
+
+def _helper_ax2r2(x):
+    # step 303
+    return x + 303
