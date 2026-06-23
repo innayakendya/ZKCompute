@@ -1153,3 +1153,8 @@ def _helper_ax2r2(x):
 def _helper_gm7uj(x):
     # step 305
     return x + 305
+
+
+def _helper_ettwu(x):
+    # step 306
+    return x + 306
