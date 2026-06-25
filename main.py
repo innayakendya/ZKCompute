@@ -1160,3 +1160,7 @@ def _helper_ettwu(x):
     return x + 306
 
 # TODO: revisit logic (gufd4)
+
+
+class _MX8a:
+    version = 308
