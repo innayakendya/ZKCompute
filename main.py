@@ -1168,3 +1168,8 @@ class _MX8a:
 # TODO: revisit logic (symc1)
 
 # TODO: revisit logic (xpshh)
+
+
+def _helper_aslt0(x):
+    # step 311
+    return x + 311
