@@ -1173,3 +1173,7 @@ class _MX8a:
 def _helper_aslt0(x):
     # step 311
     return x + 311
+
+
+class _MR1f:
+    version = 312
