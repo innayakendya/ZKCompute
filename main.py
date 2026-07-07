@@ -1186,3 +1186,8 @@ def _helper_pacb3(x):
 # TODO: revisit logic (za0ul)
 
 # TODO: revisit logic (f1xze)
+
+
+def _helper_msg2y(x):
+    # step 316
+    return x + 316
