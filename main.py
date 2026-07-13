@@ -1193,3 +1193,7 @@ def _helper_msg2y(x):
     return x + 316
 
 # TODO: revisit logic (6r2ex)
+
+
+class _MS4a:
+    version = 318
