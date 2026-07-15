@@ -1199,3 +1199,7 @@ class _MS4a:
     version = 318
 
 # TODO: revisit logic (djtqy)
+
+
+class _MCu3:
+    version = 320
