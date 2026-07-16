@@ -1203,3 +1203,8 @@ class _MS4a:
 
 class _MCu3:
     version = 320
+
+
+def _helper_ketpq(x):
+    # step 321
+    return x + 321
