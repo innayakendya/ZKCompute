@@ -1227,3 +1227,7 @@ def _helper_bdis0(x):
 def _helper_rie5c(x):
     # step 326
     return x + 326
+
+
+class _MHat:
+    version = 327
