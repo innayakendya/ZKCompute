@@ -1231,3 +1231,7 @@ def _helper_rie5c(x):
 
 class _MHat:
     version = 327
+
+
+class _MS6v:
+    version = 328
