@@ -1235,3 +1235,8 @@ class _MHat:
 
 class _MS6v:
     version = 328
+
+
+def _helper_ftppm(x):
+    # step 329
+    return x + 329
