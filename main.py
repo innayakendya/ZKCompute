@@ -1240,3 +1240,7 @@ class _MS6v:
 def _helper_ftppm(x):
     # step 329
     return x + 329
+
+
+class _MEvq:
+    version = 330
