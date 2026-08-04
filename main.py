@@ -1244,3 +1244,7 @@ def _helper_ftppm(x):
 
 class _MEvq:
     version = 330
+
+
+class _MMhf:
+    version = 331
