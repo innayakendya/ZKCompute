@@ -1252,3 +1252,8 @@ class _MMhf:
 # TODO: revisit logic (avlet)
 
 # TODO: revisit logic (1luzh)
+
+
+def _helper_z6qp1(x):
+    # step 334
+    return x + 334
