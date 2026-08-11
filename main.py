@@ -1259,3 +1259,7 @@ def _helper_z6qp1(x):
     return x + 334
 
 # TODO: revisit logic (n2nah)
+
+
+class _MZry:
+    version = 336
