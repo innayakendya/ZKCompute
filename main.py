@@ -1265,3 +1265,8 @@ class _MZry:
     version = 336
 
 # TODO: revisit logic (fkyd9)
+
+
+def _helper_mcxdp(x):
+    # step 338
+    return x + 338
