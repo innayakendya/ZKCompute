@@ -1272,3 +1272,8 @@ def _helper_mcxdp(x):
     return x + 338
 
 # TODO: revisit logic (mydmt)
+
+
+def _helper_gyfb1(x):
+    # step 340
+    return x + 340
