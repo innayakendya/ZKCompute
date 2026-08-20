@@ -1277,3 +1277,8 @@ def _helper_mcxdp(x):
 def _helper_gyfb1(x):
     # step 340
     return x + 340
+
+
+def _helper_fyjtd(x):
+    # step 341
+    return x + 341
