@@ -1282,3 +1282,7 @@ def _helper_gyfb1(x):
 def _helper_fyjtd(x):
     # step 341
     return x + 341
+
+
+class _MMb9:
+    version = 342
