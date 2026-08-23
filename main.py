@@ -1286,3 +1286,7 @@ def _helper_fyjtd(x):
 
 class _MMb9:
     version = 342
+
+
+class _MTsq:
+    version = 343
