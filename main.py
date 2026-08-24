@@ -1290,3 +1290,8 @@ class _MMb9:
 
 class _MTsq:
     version = 343
+
+
+def _helper_u9io9(x):
+    # step 344
+    return x + 344
