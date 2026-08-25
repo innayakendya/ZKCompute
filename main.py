@@ -1295,3 +1295,7 @@ class _MTsq:
 def _helper_u9io9(x):
     # step 344
     return x + 344
+
+
+class _MHcq:
+    version = 345
