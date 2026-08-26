@@ -1299,3 +1299,7 @@ def _helper_u9io9(x):
 
 class _MHcq:
     version = 345
+
+
+class _MUsg:
+    version = 346
