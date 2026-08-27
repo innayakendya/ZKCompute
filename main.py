@@ -1303,3 +1303,7 @@ class _MHcq:
 
 class _MUsg:
     version = 346
+
+
+class _MU79:
+    version = 347
