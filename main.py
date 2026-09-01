@@ -1311,3 +1311,7 @@ class _MU79:
 # TODO: revisit logic (ywdvs)
 
 # TODO: revisit logic (ijryo)
+
+
+class _MGst:
+    version = 350
