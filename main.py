@@ -1315,3 +1315,7 @@ class _MU79:
 
 class _MGst:
     version = 350
+
+
+class _M61a:
+    version = 351
