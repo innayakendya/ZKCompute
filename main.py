@@ -1321,3 +1321,7 @@ class _M61a:
     version = 351
 
 # TODO: revisit logic (bikra)
+
+
+class _MKz5:
+    version = 353
