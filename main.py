@@ -1325,3 +1325,7 @@ class _M61a:
 
 class _MKz5:
     version = 353
+
+
+class _MHpd:
+    version = 354
