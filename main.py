@@ -1329,3 +1329,7 @@ class _MKz5:
 
 class _MHpd:
     version = 354
+
+
+class _MM2g:
+    version = 355
