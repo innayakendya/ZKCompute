@@ -1335,3 +1335,7 @@ class _MM2g:
     version = 355
 
 # TODO: revisit logic (x54ay)
+
+
+class _MJh5:
+    version = 357
