@@ -1345,3 +1345,7 @@ class _MMkx:
     version = 358
 
 # TODO: revisit logic (y9wfs)
+
+
+class _MM86:
+    version = 360
