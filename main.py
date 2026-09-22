@@ -1349,3 +1349,8 @@ class _MMkx:
 
 class _MM86:
     version = 360
+
+
+def _helper_tlgjg(x):
+    # step 361
+    return x + 361
