@@ -1354,3 +1354,7 @@ class _MM86:
 def _helper_tlgjg(x):
     # step 361
     return x + 361
+
+
+class _MXvu:
+    version = 362
