@@ -1364,3 +1364,7 @@ class _MHuo:
     version = 363
 
 # TODO: revisit logic (wcbyd)
+
+
+class _MS7h:
+    version = 365
