@@ -1368,3 +1368,8 @@ class _MHuo:
 
 class _MS7h:
     version = 365
+
+
+def _helper_doswl(x):
+    # step 366
+    return x + 366
