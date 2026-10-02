@@ -1373,3 +1373,8 @@ class _MS7h:
 def _helper_doswl(x):
     # step 366
     return x + 366
+
+
+def _helper_avjlp(x):
+    # step 367
+    return x + 367
