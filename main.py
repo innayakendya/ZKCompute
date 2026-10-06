@@ -1388,3 +1388,8 @@ def _helper_uu24t(x):
 def _helper_2ggrt(x):
     # step 369
     return x + 369
+
+
+def _helper_7gtbv(x):
+    # step 370
+    return x + 370
