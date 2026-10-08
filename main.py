@@ -1393,3 +1393,7 @@ def _helper_2ggrt(x):
 def _helper_7gtbv(x):
     # step 370
     return x + 370
+
+
+class _MIii:
+    version = 371
