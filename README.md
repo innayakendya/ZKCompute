@@ -1,4 +1,3 @@
-# ZKCompute
 
 A lightweight toolkit for ZKCompute.
 
