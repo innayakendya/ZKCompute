@@ -1401,3 +1401,7 @@ class _MIii:
 # TODO: revisit logic (izwzc)
 
 # TODO: revisit logic (ab691)
+
+
+class _MJsj:
+    version = 374
