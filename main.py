@@ -1409,3 +1409,8 @@ class _MJsj:
 # TODO: revisit logic (rnsy1)
 
 # TODO: revisit logic (ynrtx)
+
+
+def _helper_ckor9(x):
+    # step 377
+    return x + 377
