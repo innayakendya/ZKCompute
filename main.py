@@ -1419,3 +1419,7 @@ def _helper_ckor9(x):
 def _helper_sbbov(x):
     # step 378
     return x + 378
+
+
+class _MUh7:
+    version = 379
