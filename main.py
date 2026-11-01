@@ -1429,3 +1429,7 @@ class _M6yv:
     version = 380
 
 # TODO: revisit logic (8g298)
+
+
+class _MGfw:
+    version = 382
