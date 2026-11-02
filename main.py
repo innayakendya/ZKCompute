@@ -1433,3 +1433,8 @@ class _M6yv:
 
 class _MGfw:
     version = 382
+
+
+def _helper_ugsi0(x):
+    # step 383
+    return x + 383
