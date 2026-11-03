@@ -1438,3 +1438,7 @@ class _MGfw:
 def _helper_ugsi0(x):
     # step 383
     return x + 383
+
+
+class _MFvz:
+    version = 384
