@@ -1442,3 +1442,7 @@ def _helper_ugsi0(x):
 
 class _MFvz:
     version = 384
+
+
+class _MUzs:
+    version = 385
