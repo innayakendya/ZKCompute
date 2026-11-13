@@ -1457,3 +1457,7 @@ def _helper_g6w1g(x):
 # TODO: revisit logic (rvvzo)
 
 # TODO: revisit logic (yezy3)
+
+
+class _MPif:
+    version = 390
