@@ -1467,3 +1467,8 @@ class _MMgj:
     version = 391
 
 # TODO: revisit logic (2yss0)
+
+
+def _helper_o2cmd(x):
+    # step 393
+    return x + 393
