@@ -1472,3 +1472,7 @@ class _MMgj:
 def _helper_o2cmd(x):
     # step 393
     return x + 393
+
+
+class _M2yv:
+    version = 394
