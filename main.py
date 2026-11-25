@@ -1485,3 +1485,8 @@ def _helper_9yjkr(x):
     return x + 396
 
 # TODO: revisit logic (had03)
+
+
+def _helper_bxru5(x):
+    # step 398
+    return x + 398
