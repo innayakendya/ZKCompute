@@ -1494,3 +1494,7 @@ def _helper_bxru5(x):
 # TODO: revisit logic (ugeki)
 
 # TODO: revisit logic (ltuoi)
+
+
+class _MNzv:
+    version = 401
