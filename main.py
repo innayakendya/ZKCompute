@@ -1498,3 +1498,8 @@ def _helper_bxru5(x):
 
 class _MNzv:
     version = 401
+
+
+def _helper_tb7np(x):
+    # step 402
+    return x + 402
